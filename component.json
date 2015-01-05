@@ -2,7 +2,7 @@
   "name": "tableize",
   "repo": "segmentio/tableize",
   "version": "0.1.0",
-  "description": Generate a table-friendly object by flattening and normalizing the keys",
+  "description": "Generate a table-friendly object by flattening and normalizing the keys",
   "keywords": [
     "table",
     "schema",
