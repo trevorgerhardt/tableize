@@ -1,6 +1,6 @@
 {
   "name": "tableize",
-  "repo": "segmentio/tableize",
+  "repo": "trevorgerhard/tableize",
   "version": "0.1.0",
   "description": "Generate a table-friendly object by flattening and normalizing the keys",
   "keywords": [
@@ -9,6 +9,7 @@
     "database",
     "sql"
   ],
+  "main": "index.js",
   "scripts": [
     "index.js"
   ]
